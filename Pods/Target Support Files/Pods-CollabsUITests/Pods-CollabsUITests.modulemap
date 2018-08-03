@@ -1,0 +1,6 @@
+framework module Pods_CollabsUITests {
+  umbrella header "Pods-CollabsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
